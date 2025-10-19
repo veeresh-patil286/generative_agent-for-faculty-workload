@@ -1,0 +1,21 @@
+Day,Time,Course,Faculty,Room
+Monday,09:00-10:00,Data Structures,Prof.Sharma,Room 201
+Monday,10:00-11:00,Operating Systems,Prof.Kapoor,Room 202
+Monday,11:00-12:00,AI & ML,Prof.Mehta,Room 203
+Monday,14:00-15:00,Database Systems,Prof.Verma,Room 204
+Tuesday,09:00-10:00,Digital Electronics,Prof.Singh,Room 301
+Tuesday,10:00-11:00,Circuits,Prof.Rao,Room 305
+Tuesday,11:00-12:00,Power Systems,Prof.Geetha,Room 306
+Tuesday,14:00-15:00,Thermodynamics,Prof.Mishra,Room 401
+Wednesday,09:00-10:00,Fluid Mechanics,Prof.Iyer,Room 402
+Wednesday,10:00-11:00,Machine Design,Prof.Ram,Room 403
+Wednesday,11:00-12:00,Data Mining,Prof.Anand,Room 404
+Wednesday,14:00-15:00,Communication Systems,Prof.Priya,Room 405
+Thursday,09:00-10:00,Signals & Systems,Prof.Gupta,Room 406
+Thursday,10:00-11:00,Web Technologies,Prof.Deepa,Room 407
+Thursday,11:00-12:00,Embedded Systems,Prof.Swathi,Room 408
+Thursday,14:00-15:00,Surveying,Prof.Manoj,Room 409
+Friday,09:00-10:00,Structural Analysis,Prof.Jain,Room 501
+Friday,10:00-11:00,Environmental Engineering,Prof.Patel,Room 502
+Friday,11:00-12:00,Software Engineering,Prof.Kiran,Room 503
+Friday,14:00-15:00,Computer Networks,Prof.Ravi,Room 504

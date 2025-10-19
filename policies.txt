@@ -1,0 +1,12 @@
+University Faculty Workload and Scheduling Policies
+
+1. Maximum workload per professor: 12 hours per week.
+2. No faculty should have more than 3 consecutive teaching hours.
+3. Faculty should have at least one free slot between two sessions.
+4. Each department should distribute teaching load evenly among available staff.
+5. Professors handling final-year projects should get a reduction of 2 hours from their weekly teaching load.
+6. Labs should not be scheduled before 9 AM or after 5 PM.
+7. No classes should be held during the lunch break (1 PM - 2 PM).
+8. Faculty must have at least one non-teaching day per week for research or administrative duties.
+9. Guest lectures can replace a regular class if approved by the Head of Department.
+10. Faculty teaching more than 10 hours per week should not be assigned additional mentoring duties.

@@ -1,0 +1,21 @@
+FacultyID,Name,Department,Course,HoursPerWeek
+F101,Prof.Sharma,CSE,Data Structures,6
+F102,Prof.Mehta,CSE,AI & ML,8
+F103,Prof.Rao,EEE,Circuits,5
+F104,Prof.Iyer,ME,Fluid Mechanics,7
+F105,Prof.Kapoor,CSE,Operating Systems,6
+F106,Prof.Verma,CSE,Database Systems,8
+F107,Prof.Singh,EEE,Digital Electronics,7
+F108,Prof.Mishra,ME,Thermodynamics,6
+F109,Prof.Jain,CIVIL,Structural Analysis,5
+F110,Prof.Patel,CIVIL,Environmental Engineering,7
+F111,Prof.Gupta,ECE,Signals & Systems,6
+F112,Prof.Priya,ECE,Communication Systems,8
+F113,Prof.Anand,IT,Data Mining,6
+F114,Prof.Kiran,IT,Software Engineering,7
+F115,Prof.Ram,ME,Machine Design,6
+F116,Prof.Geetha,EEE,Power Systems,8
+F117,Prof.Ravi,CSE,Computer Networks,7
+F118,Prof.Swathi,ECE,Embedded Systems,6
+F119,Prof.Deepa,IT,Web Technologies,8
+F120,Prof.Manoj,CIVIL,Surveying,6

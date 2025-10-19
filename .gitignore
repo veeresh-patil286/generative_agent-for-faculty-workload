@@ -1,0 +1,30 @@
+# Ignore Python bytecode and cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment folder
+.venv/
+
+# Ignore build and distribution folders
+build/
+dist/
+*.egg-info/
+
+# Ignore VS Code / Cursor IDE settings folders
+.vscode/
+.history/
+
+# Ignore Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Ignore environment variable files (for secrets)
+.env
+.env.*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# PyInstaller files
+*.spec
